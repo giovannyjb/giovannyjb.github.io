@@ -1,0 +1,14 @@
+[
+    {
+        "relation": [
+            "delegate_permission/common.handle_all_urls"
+        ],
+        "target": {
+            "namespace": "android_app",
+            "package_name": "com.appcomfandi",
+            "sha256_cert_fingerprints": [
+                "70:9D:4E:1F:33:49:8B:AB:01:56:AA:5C:3F:05:9B:95:85:8B:FA:82:87:E2:05:E9:B0:43:6F:4B:12:83:6E:6F"
+            ]
+        }
+    }
+]
